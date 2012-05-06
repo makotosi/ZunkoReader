@@ -1,0 +1,13 @@
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bin\Debug\resources.pri
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bin\Debug\AppxManifest.xml
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bin\Debug\WindowsBlogReader.build.appxrecipe
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bld\Debug\priconfig.xml
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bld\Debug\layout.resfiles
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bld\Debug\resources.resfiles
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bld\Debug\pri.resfiles
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bld\Debug\LanguageQualifiers.txt
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bld\Debug\ProjectArchitectures.txt
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bld\Debug\priconfig.xml.intermediate
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bld\Debug\layout.resfiles.intermediate
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bld\Debug\resources.resfiles.intermediate
+C:\Users\makotosiraisi\Documents\Visual Studio 11\Projects\WindowsBlogReader\WindowsBlogReader\bld\Debug\pri.resfiles.intermediate
